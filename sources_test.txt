@@ -1,0 +1,4 @@
+﻿string sourceFolder = @"C:\Users\blood\Documents\deneme\source";
+string replicaFolder = @"C:\Users\blood\Documents\deneme\replica";
+string interval = "10000";
+string logFolder = @"C:\Users\blood\Documents\deneme";
